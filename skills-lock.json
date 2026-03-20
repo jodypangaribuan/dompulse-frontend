@@ -5,6 +5,11 @@
       "source": "secondsky/claude-skills",
       "sourceType": "github",
       "computedHash": "ec58b85f3668dbfda1b279c7399f85d2c05f0db4474e4ce4de629a4823f651bf"
+    },
+    "llm-monitoring-dashboard": {
+      "source": "supercent-io/skills-template",
+      "sourceType": "github",
+      "computedHash": "7153122212b19fcf876c7b8d183a72713127e4be7f1145a6059ab44544a36975"
     }
   }
 }
