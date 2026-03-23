@@ -1,5 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Dompulse - System Pulse Monitor
 
+Dompulse is a modern dashboard application built to monitor your system's pulse and get real-time insights into your application's metrics. Built with Next.js, Tailwind CSS, and Aceternity UI.
 ## Getting Started
 
 First, run the development server:
